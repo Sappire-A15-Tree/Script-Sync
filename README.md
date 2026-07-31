@@ -16,6 +16,7 @@ git clone --depth 1 -b lineage-22.2 https://github.com/Sapphire-Tree/vendor_xiao
 rm -rf hardware/xiaomi
 git clone --depth 1 -b lineage-22.2 https://github.com/Sapphire-Tree/android_hardware_xiaomi hardware/xiaomi
 
+
 echo "============================"
 echo "Device Trees cloned successfully"
 echo "============================"
