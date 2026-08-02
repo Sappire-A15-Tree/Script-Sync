@@ -20,7 +20,7 @@ rm -rf hardware/xiaomi
 git clone --depth 1 -b lineage-22.2 https://github.com/Sappire-A15-Tree/android_hardware_xiaomi hardware/xiaomi
 
 rm -rf hardware/dolby
-git clone --depth 1 https://github.com/Sappire-A15-Tree/android_hardware_dolby
+git clone --depth 1 https://github.com/Sappire-A15-Tree/android_hardware_dolby hardware/dolby
 
 echo "============================"
 echo "Device Trees cloned successfully"
